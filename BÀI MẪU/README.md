@@ -1,3 +1,9 @@
+Thông Tín Nhóm Thúc Hiện - Nhóm 04
+Trường nhom: Bùi Văn Tài - MSSV: 1871020515 - Lôp: CNTT-1802
+Thanh viên: Nguyen Hoang Viet - MSSV: 1871020654 - Lôp: CNTT-1802
+Thanh viên: Trần Hữu Tiến Duy - MSSV: 1871020072 - Lôp: CNTT-1802
+Thanh vien: Lương Thiện Hoàng - MSSV: 1871020574 - Lôp: CNTT-1802 Học phần: Nhật môn An toàn toàn và Bảo mật thông tin Đệ 24: Báo cáo tài chính nén an toàn Don vi: Đại học Đại Nam
+
 # BTL.ATBMTT
 
 ![image](https://github.com/user-attachments/assets/74a9f47f-6188-46f0-98d3-abe2bf4f04a8)
